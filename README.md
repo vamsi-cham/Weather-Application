@@ -15,7 +15,7 @@ And also he can delete the location, updates his primary location.
 - Written unit test cases too using jest framework.
 
 #### Skills/Domain:
-Node JS, TypeScript, Jest
+ExpressJS, TypeScript, Jest
 
 ## How to run and use this application ?
 - Open the terminal at the root folder and run "npm install" to install all dependencies.
